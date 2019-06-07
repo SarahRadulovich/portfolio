@@ -1,0 +1,23 @@
+body {
+  background-color: FloralWhite;
+}
+
+div {
+  background-color: white;
+  width: 150px;
+  padding: 50px;
+  margin: 20px;
+}
+
+h1 {
+  color: DarkSlateGrey;
+  text-align: left;
+  margin: 20px;
+}
+
+p {
+  color: DarkSlateGrey;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
