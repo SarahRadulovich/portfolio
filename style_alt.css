@@ -38,7 +38,11 @@ body {
     height: 100vw;
   }
   
-  
+  hr.dividerAbout{
+      border-top: 1px solid #8c8b8b;
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
   
   
   .aboutMePage {
