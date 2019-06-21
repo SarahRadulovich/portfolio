@@ -3,64 +3,65 @@ body {
 }
 
 .navBar {
-  column-width: 8vw;
+  column-width: 11vw;
   color: Black;
   font-family: "Courier New";
-  font-size: 1vw;
-  margin-left: 50vw;
-  margin-top: 2vw;
-  margin-bottom: 2vw;
+  font-size: 2vw;
+  text-align: right;
+  height: 4vw;
   position: sticky;
   top:0;
   background-color: DarkSeaGreen;
 }
 
-.title {
-  color: Black;
-  font-family: "Courier New";
-  font-size: 3vw;
-  text-align: left;
-  margin-left: 2vw;
-  margin-top: 2vw;
-  float: left;
-}
-
-.titleText {
+.homePage {
   color: Black;
   font-family: "Courier New";
   font-size: 5vw;
   text-align: center;
   
   background-color: CornSilk;
-  width: 50vw;
   height: 100vw;
   padding: 2vw;
-  margin-left: 43vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 .aboutMePage {
   background-color: LightCoral;
-  height: 50vw;
   color: Black;
   font-family: "Courier New";
-  font-size: 3vw;
-  text-align: left;
+  font-size: 5vw;
+  text-align: center;
+  
+  height: 100vw;
+  padding: 2vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 .projectsPage {
   background-color: SandyBrown;
-  height: 50vw;
   color: Black;
   font-family: "Courier New";
-  font-size: 3vw;
-  text-align: left;
+  font-size: 5vw;
+  text-align: center;
+  
+  height: 100vw;
+  padding: 2vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 .contactsPage {
   background-color: Khaki;
-  height: 50vw;
   color: Black;
   font-family: "Courier New";
-  font-size: 3vw;
-  text-align: left;
+  font-size: 5vw;
+  text-align: center;
+  
+  height: 100vw;
+  padding: 2vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }

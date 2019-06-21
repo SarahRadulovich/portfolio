@@ -1,0 +1,85 @@
+/* alternative theme */
+body {
+    background-color: darksalmon;
+  }
+  
+  a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .navBar {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: "Helvetica";
+    height: 4vw;
+    position: sticky;
+    top:0;
+    background-color: lavenderblush;
+    margin-right: -1%;
+    margin-left: -1%;
+    margin-top: -1%;
+  }
+  
+  .navBullet {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+  
+  .homePage {
+    color: lavenderblush;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 10vw;
+    text-align: right;
+    margin-right: 5vw;
+    height: 100vw;
+  }
+  
+  
+  
+  
+  .aboutMePage {
+    background-color: darksalmon;
+    color: lavenderblush;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 5vw;
+    text-align: Left;
+    
+    height: 100vw;
+    padding: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
+  
+  .projectsPage {
+    background-color: SandyBrown;
+    color: Black;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 5vw;
+    text-align: center;
+    
+    height: 100vw;
+    padding: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+  
+  .contactsPage {
+    background-color: Khaki;
+    color: Black;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 5vw;
+    text-align: center;
+    
+    height: 100vw;
+    padding: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+  
