@@ -1,0 +1,38 @@
+//File for all my text
+
+//
+About Me
+
+-little blurb-
+
+-link to resume-
+
+/* pie chart? breakdown of some sort */
+12 months of professional front-end development experience.
+8 months using C++ and QML
+4 months using React.js
+
+-interests?-        //include if they're relavant later on
+
+//
+Projects
+
+Piano Project
+-link or embedded version to play-
+
+Astronomy Project
+-link with screenshots-
+
+Personal Library 
+-explain process-
+
+This site!
+
+
+//
+Contact
+
+If you want to discuss in person, feel free to email me or send me a message on LinkedIn!
+
+Email: sarah.j.radulovich@gmail.com
+LinkedIn: https://www.linkedin.com/in/sarah-radulovich-705175128/
