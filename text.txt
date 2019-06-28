@@ -6,16 +6,19 @@ About Me
 -little blurb-
 
 -link to resume-
+local: file:///D:/Documents/Resume/CompEngResume_jan_2019.pdf
 
 /* pie chart? breakdown of some sort */
 12 months of professional front-end development experience.
 8 months using C++ and QML
 4 months using React.js
 
--interests?-        //include if they're relavant later on
+-interests?-        //include if they're relevant later on
 
 //
 Projects
+
+Github: https://github.com/SarahRadulovich
 
 Piano Project
 -link or embedded version to play-
