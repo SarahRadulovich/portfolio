@@ -25,6 +25,7 @@ html {
   }
   
   .navBullet {
+    font-size: 1.5vw;
     display: block;
     padding: 14px 16px;
     text-decoration: none;
@@ -85,9 +86,17 @@ html {
     font-size: 5vw;
     text-align: Left;
     
-    height: 100vw;
     padding: 2vw;
     margin-left: 5vw;
     margin-right: 5vw;
+    
   }
-  
+
+.contactText {
+  font-family: "Helvetica";
+  font-weight: bold;
+  font-size: 1vw;
+  padding: 1vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
